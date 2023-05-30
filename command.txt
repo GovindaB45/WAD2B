@@ -1,0 +1,4 @@
+docker --version
+node a.js
+docker build -t <folder-name> .
+docker images
